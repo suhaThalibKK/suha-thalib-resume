@@ -1,7 +1,7 @@
 # Professional Portfolio & Resume 🚀
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://yourusername.github.io)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen)](https://suhathalibkk.github.io/suha-thalib-resume/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)](https://github.com/suhaThalibKK/suha-thalib-resume/commits?author=suhaThalibKK)
 
 ## 👨💻 Senior Backend Developer | Tech Educator
 
